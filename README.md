@@ -24,7 +24,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-はじめまして。ムルサリンイスラムともうします。ムルサリンとよんでください。ダッカ工科大学という大学をそつぎょしました。せんこうはコンピュータサイエンスとエンジニアリングです。
+はじめまして。ムルサリンイスラムともうします。ムルサリンとよんでください。趣味はりょこうをすることです。ダッカ工科大学という大学をそつぎょしました。せんこうはコンピュータサイエンスとエンジニアリングです。
 私は ITEE (Information Tehnology Engineer's Examination) FE (Fundamental Engineering) full passer (November 2021)　です。conducted by IPA (Information Technology Promotion Agency), Japan.
 私は、Webアプリケーション、IoT、マイクロコントローラー、automationシステムの実務経験があります。
 私はどんな仕事でも論理的に解決することが好きで、自分の才能を生かせるような挑戦的な仕事をするのが好きです。私は技術好きなので、新しい技術を探求し、学ぶことが好きです。
