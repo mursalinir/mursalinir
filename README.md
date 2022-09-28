@@ -24,8 +24,15 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer and Tech Enthusiast from Bangladesh. Love to learn and explore new technology.
+はじめまして。ムルサリンイスラムともうします。ムルサリンとよんでください。ダッカ工科大学という大学をそつぎょしました。せんこうはコンピュータサイエンスとエンジニアリングです。
+私は ITEE (Information Tehnology Engineer's Examination) FE (Fundamental Engineering) full passer (November 2021)　です。conducted by IPA (Information Technology Promotion Agency), Japan.
+私は、Webアプリケーション、IoT、マイクロコントローラー、automationシステムの実務経験があります。
+私はどんな仕事でも論理的に解決することが好きで、自分の才能を生かせるような挑戦的な仕事をするのが好きです。私は技術好きなので、新しい技術を探求し、学ぶことが好きです。
+私は自己学習能力が高く、学習が速いので、どんな新しい技術でもすぐに取り入れることができます。
+現在、日本語を勉強しています。日本の伝統や倫理観、企業文化に魅力を感じているので、日本で働くことにとても興味があります。
+また、私は勤勉なので、日本は私に適しています。総合的に見て、私はこの素晴らしい国で自分の才能を生かし、新しいことを学ぶために働きたいと思っています。
 
+I am a Full Stack Developer and Tech Enthusiast from Bangladesh. Love to learn and explore new technology.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I am learning Japanese language and culture.
 - ⚡ In my free time I solve problems.
