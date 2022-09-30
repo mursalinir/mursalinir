@@ -35,7 +35,7 @@
 I am a Full Stack Developer and Tech Enthusiast from Bangladesh. Love to learn and explore new technology.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I am learning Japanese language and culture.
-- ⚡ In my free time I solve problems.
+- ⚡ In my free time I solve problems on paiza.jp .
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mursalinir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mursalinir)
 
 ---
