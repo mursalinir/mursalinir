@@ -67,9 +67,25 @@ I am a Full Stack Developer and Tech Enthusiast from Bangladesh. Love to learn a
 ---
 
 ### 🔥 &nbsp; My Stats :
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mursalinir&theme=dark)](https://git.io/streak-stats)
 
+</div>
+
+<div align="center">
+
+![Mursalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mursalinir&show_icons=true&theme=radical)
+
+</div>
+ 
+ <div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalinir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
+</div>
 
 ---
 
